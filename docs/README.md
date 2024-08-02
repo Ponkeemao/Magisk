@@ -1,3 +1,5 @@
+[count.json](https://github.com/user-attachments/files/16463855/count.json)
+[count.json](https://github.com/user-attachments/files/16463853/count.json)
 # Magisk Documentation
 
 - [Installation Instructions](install.md)
